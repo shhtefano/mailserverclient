@@ -1,0 +1,24 @@
+[
+
+  {
+    "nome":"Stefano",
+    "cognome":"Galanti",
+    "mail":"stegala@gmail.com",
+    "path":"C:\\Users\\Stefano\\Desktop\\progettodemo1\\Server\\resources\\stegala@gmail.com"
+  },
+
+  {
+    "nome":"Mirko",
+    "cognome":"Gambino",
+    "mail":"mirkogambi@gmail.com",
+    "path":"C:\\Users\\Stefano\\Desktop\\progettodemo1\\Server\\resources\\mirkogambi@gmail.com"
+  },
+
+  {
+    "nome":"Giovy",
+    "cognome":"Gionson",
+    "mail":"giovygions@gmail.com",
+    "path":"C:\\Users\\Stefano\\Desktop\\progettodemo1\\Server\\resources\\giovygions@gmail.com"
+
+  }
+]
